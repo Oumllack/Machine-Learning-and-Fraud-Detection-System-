@@ -177,26 +177,26 @@ Top 5 most important features:
 - CPU utilization: 40%
 - GPU acceleration support
 
-### 4.5 Analyse Temporelle Détaillée
-![Analyse Temporelle](results/temporal_analysis.png)
-*Figure 10: Analyse détaillée des patterns de fraude au fil du temps*
+### 4.5 Detailed Temporal Analysis
+![Temporal Analysis](results/temporal_analysis.png)
+*Figure 10: Detailed analysis of fraud patterns over time*
 
-Cette analyse révèle des insights critiques sur les comportements frauduleux :
-- Pics de fraude entre 2h et 4h du matin
-- Activité minimale entre 6h et 8h
-- Score moyen de fraude par heure : 0.86-0.87
-- Patterns saisonniers identifiés
-- Détection d'anomalies basée sur le temps
+This analysis reveals critical insights about fraudulent behavior:
+- Fraud peaks between 2 AM and 4 AM
+- Minimal activity between 6 AM and 8 AM
+- Average fraud score per hour: 0.86-0.87
+- Identified seasonal patterns
+- Time-based anomaly detection
 
-### 4.6 Comparaison des Performances
-![Comparaison des Performances](results/market_comparison.png)
-*Figure 11: Comparaison détaillée avec les solutions existantes*
+### 4.6 Performance Comparison
+![Performance Comparison](results/market_comparison.png)
+*Figure 11: Detailed comparison with existing solutions*
 
-Notre solution surpasse significativement les systèmes existants :
-- Taux de détection 15% supérieur à la moyenne de l'industrie
-- Réduction de 78% des faux positifs
-- Vitesse de traitement 10x supérieure
-- Coûts opérationnels réduits de 60%
+Our solution significantly outperforms existing systems:
+- 15% higher detection rate than industry average
+- 78% reduction in false positives
+- 10x faster processing speed
+- 60% reduction in operational costs
 
 ## 5. Implementation Details
 
