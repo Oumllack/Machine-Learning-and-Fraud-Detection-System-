@@ -321,10 +321,7 @@ python src/monitor.py
 ## 10. License
 MIT License
 
-## 11. Contact
-[Your Contact Information]
-
-## 12. Acknowledgments
+## 11. Acknowledgments
 - Kaggle for the dataset
 - XGBoost team for the excellent library
 - Open source community for tools and libraries
